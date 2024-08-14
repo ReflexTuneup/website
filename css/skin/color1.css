@@ -1,0 +1,170 @@
+.post-pagination li a:hover, .aut-cr-btn, .header-lower.navbar .appoinment a, .aut-cr-btn.inverse:hover, .post-pagination li.active a, .customizer-box .slider, #polyglotLanguageSwitcher ul.dropdown, .single-price-box .table-header, .testi-owl.owl-theme .owl-dots .owl-dot.active span, .testi-owl.owl-theme .owl-dots .owl-dot:hover span, .single-price-box:hover .table-footer a, .combo-package-area:before, .testimonial-page .loadmore-button a, .single-shop-item .aut-cr-btn:hover, .free-appoinment-form .select-field .dropdown-menu > li > a:hover {background: none;background-color: #243893; }
+
+ .aut-cr-btn, .header-lower.navbar .appoinment a, .aut-cr-btn.inverse:hover, .ask-your-question-form button, .single-shop-item:hover .img-box, .shop-section .sidebar .single-sidebar-item .price-ranger .ui-slider-handle, .single-shop-item .aut-cr-btn:hover {border-color: #243893; }
+
+ .customizer-box button.toggler , .header-top-content .cart-btn a .item-count span, .social-links ul li:hover i::before, .customer-support h3, .full-range-services-area .single-item .inner-content .icon-holder span::before, .single-testimonial-item .client-info .client-name p, .single-testimonial-item .client-info .client-name p, .single-shop-item a:hover h3 {color: #243893; }
+
+
+ 
+ @media (min-width: 641px) {
+    .header-lower.navbar .navbar-nav>li.active>a {color: #243893; }
+    .header-lower.navbar .navbar-nav>li:hover>a {color: #243893; }
+    .header-lower.navbar .navbar-nav>li>a span.decor, .header-lower.navbar .navbar-nav>li>a span.decor:before, .header-lower.navbar .navbar-nav>li>a span.decor:after {background-color: #243893; }
+    .header-lower.navbar .navbar-nav>.open>a, .header-lower.navbar .navbar-nav>.open>a:focus, .header-lower.navbar .navbar-nav>.open>a:hover, .header-lower.navbar .navbar-nav>.active>a, .header-lower.navbar .navbar-nav>.active>a:focus, .header-lower.navbar .navbar-nav>.active>a:hover {color: #243893; }
+    .header-lower.navbar .navbar-nav > li > .dropdown-menu {border-top: 2px solid #243893; }
+    .header-lower.navbar .navbar-nav > li > .dropdown-menu:before {color: #243893; }
+    .header-lower.navbar .dropdown-menu > li > a:focus, .header-lower.navbar .dropdown-menu > li > a:hover {color: #243893; } 
+}
+
+
+ .combo-package-area {background-color: #243893; }
+ .rev_slider_wrapper .wheel-installation h3 {background-color: #243893; }
+ .rev_slider_wrapper .wheel-installation .rate h1 {color: #243893; }
+ .rev_slider_wrapper .wheel-installation .border {background-color: #243893; }
+ .call-to-action-area {background-color: #243893; }
+ .call-to-action-area .box {background-color: #243893; }
+ .call-to-action-area .box:before {background-color: #243893; }
+ .call-to-action-area .box:after {background-color: #243893; }
+ .call-to-action-area .box a {color: #243893; border: 2px solid #243893; }
+ .service-client-carousel .single-item .content .info-box h6 {color: #243893; }
+ .service-client-carousel .single-item .content .info-box .rating ul li span::before {color: #243893; }
+ .service-client-carousel .testimonial-control {background-color: #243893; }
+ .service-client-carousel .testimonial-control {background-color: #243893; }
+ .trusted-service-area .single-item:hover .icon-holder span::before {background: #243893 !important; }
+ .trusted-service-area .single-item:hover .content a {color: #243893; }
+ .best-service-area .single-item .overlay {background-color: #243893; }
+ .best-service-area .single-item .title .icon-holder span::before {color: #243893; }
+ .best-service-area .single-item .title .go-top-icon {background-color: #243893; }
+ .wheel-work-left .single-list-item ul li i {color: #243893; }
+ .wheel-work-right h1 {background-color: #243893; }
+ .wheel-work-right ul li.active .single-other-service-list {background-color: #243893; }
+ .wheel-work-right ul li.active .single-other-service-list .title:before {background: #fff; }
+ .wheel-work-right .single-other-service-list:hover {background-color: #243893; }
+ .faq-content-left .accordion-box .accordion .acc-btn.active {color: #243893; }
+ .faq-content-left .accordion-box .accordion .acc-btn .toggle-icon .minus {background-color: #243893; }
+ .faq-content-left a.more-question:hover {color: #243893; }
+ .work-gallery-right .work-gallery-items .single-item .img-holder .overlay .image-view .content a:hover span::before {background-color: #243893; }
+ .meet-our-specialist-area .single-item .text h6 {color: #243893; }
+ .meet-our-specialist-area .single-item .text .mail p span::before {color: #243893; }
+ .meet-our-specialist-area .single-item .text .mail p span.email-text {color: #243893; }
+ .meet-our-specialist-area .single-item .img-holder .overlay .content .social-icon ul li:hover {background-color: #243893; border: 1px solid #243893; }
+ .single-blog-post ul li {border-right: 1px solid #243893; color: #243893; }
+ .single-blog-post ul li a {color: #243893; }
+ .single-blog-post .content-box .date-box .comment {background-color: #243893; }
+ .single-blog-post .img-holder .overlay .image-view .icon-holder a span:hover::before {color: #243893; }
+ .single-blog-post .content-box .content h3:hover {color: #243893; }
+ .single-blog-post .content-box .content a.readmore:hover {color: #243893; }
+ /* * 15.= Appintment area styles */ .free-appoinment-form .input-field input:hover {color: #243893; }
+ .free-appoinment-form .input-field textarea:hover {color: #243893; }
+ .free-appoinment-form .select-field select:hover {color: #243893; }
+ .brand-area .owl-theme .owl-nav div .fa:hover {color: #243893; }
+ .footer-top .single-item .icon-holder span::before {color: #243893; font-size: 35px; transition: color .4s ease; }
+ .footer-top .single-item .content p {color: #243893; }
+ .footer-top .single-item:hover {background-color: #243893; }
+ .single-footer-widget .shop-spare li .content a {background-color: #243893; }
+ .single-footer-widget .carousel-indicators .active {background-color: #243893; border: 1px solid #243893; }
+ .copy-right p a {color: #243893; }
+ .footer-social-link ul li a:hover {background-color: #243893; border: 1px solid #243893; }
+ /* * 18.= BreadCumb area styles */ .notfound-content-area .content h5 a {color: #243893; }
+ .notfound-content-area .content .search-form button:hover {color: #243893; }
+ .customers-info .content .customers-name-signature .name p {color: #243893; }
+ .customer-support .info-box .social ul li:hover a i::before {background-color: #243893; border: 2px solid #243893; }
+ .years-tab .tab-menu ul li.active a h3::after {background-color: #243893; border: 1px solid #243893; }
+ .years-tab .tab-menu ul li.active a span {color: #243893; }
+ .years-tab .tab-menu ul li a span:hover {color: #243893; }
+ .working-time span a {color: #243893; }
+ .subscribe form p {color: #243893; }
+ .fact-counter-area {background-color: #243893; }
+ .why-choose-us-area .single-item:hover .icon-holder {background-color: #243893; }
+ .why-choose-us-area .single-item:hover .content a {color: #243893; }
+ .write-your-comment-form input[type="text"]:focus {color: #243893; }
+ .faq-content-area .accordion-box .accordion .acc-btn.active .toggle-icon span:before {color: #243893; }
+ .ask-your-question-form input[type="text"]:focus {color: #243893; }
+ .ask-your-question-form .select-field select:focus {color: #243893; }
+ .ask-your-question-form textarea:focus {color: #243893; }
+ .ask-your-question-form button:hover {border: 2px solid #243893; }
+ .single-price-box .price-list ul li span::before {color: #243893; }
+ .combo-package-area .button a {color: #243893; }
+ .large-blog-post .single-blog-post ul li a {color: #243893; }
+ .paginations ul li.active a, .paginations ul li a:hover {background-color: #243893; }
+ .single-sidebar .search-form button {background-color: #243893; }
+ .single-sidebar .latest-post li .title ul li {color: #243893; }
+ .single-sidebar .latest-post li .title ul li::before {background-color: #243893; }
+ .single-sidebar .latest-post li:hover .title h6 a {color: #243893; }
+ .single-sidebar .blog-archive li:hover a {color: #243893; }
+ .single-sidebar .blog-archive li:hover a span::before {color: #243893; }
+ .list-blog-post .single-blog-post .date-and-img-box .date-box .comment {background-color: #243893; }
+ .list-blog-post .single-blog-post .content-box ul li a {color: #243893; }
+ .blog-details-content .single-blog-post ul li a {color: #243893; }
+ .blog-details-content .single-blog-post .content-box .content .social-like-box .social-icon ul li a:hover {background-color: #243893; }
+ .author-box .text .author-mail {color: #243893; }
+ .comment-box .text-box ul li a {color: #243893; }
+ .leave-reply-form form input[type="text"]:focus {color: #243893; }
+ .leave-reply-form form textarea:focus {color: #243893; }
+ .leave-reply-form form button:hover {background-color: #243893; }
+ .gallery-filter li.active {background-color: #243893; }
+ .gallery-filter li.active::before {color: #243893; }
+ .gallery-filter li span.count b {font-weight: normal; background-color: #243893; }
+ .single-gallery-item .img-holder .overlay .title h6 {color: #243893; }
+ .single-gallery-item .img-holder .overlay .image-view .icon-holder a:hover {background-color: #243893; }
+ .gallery-masonary-v1-area .load-more-button a:hover {background-color: #243893; }
+ .gallery-masonary-v2-area .load-more-button a:hover {background-color: #243893; }
+ .gallery-items .gallery-single-item .right-content .related-project li .img-holder .overlay .image-view .icon-holder a:hover {background-color: #243893; }
+ .single-shop-item ul.price li span {font-size: 18px; color: #243893; }
+ .single-shop-item .review-box i {font-size: 13px; color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .search-products button {background-color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .product-categories li a i {color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .product-categories li:hover a {color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .price-ranger .ui-widget-header {background: #243893 }
+ .shop-section .sidebar .single-sidebar-item .top-rated-products li .content .review-box {}
+ .shop-section .sidebar .single-sidebar-item .top-rated-products li .content .review-box i {color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .top-rated-products li .content .rate li span {color: #243893; }
+ .shop-section .sidebar .single-sidebar-item .top-rated-products li:hover .img-holder {border: 1px solid #243893; }
+ .shop-section .sidebar .single-sidebar-item .top-rated-products li:hover .content a h3 {color: #243893; }
+ .single-shop-content .content .review-box i {color: #243893; }
+ .single-shop-content .content h1 {color: #243893; }
+ .single-shop-content .content .input-field input[type="text"]:focus {border: 1px solid #243893; }
+ .single-shop-content .content .add-to-cart a:hover {background-color: #243893; }
+ .review-tab-content .single-review-content .content-box .top .review-box i {color: #243893; }
+ .review-tab-content .single-review-content .content-box .date-and-time li a {color: #243893; }
+ .review-form input[type="text"]:focus {border: 1px solid #243893; }
+ .review-form .review-box ul li {border-right: 0px solid #243893; }
+ .review-form .review-box i {color: #243893; }
+ .review-form .review-box i:hover {color: #243893 !important; }
+ .review-form textarea:focus {border: 1px solid #243893; }
+ .review-form button:hover {background-color: #243893; }
+ .related-product .owl-theme .owl-nav [class*="owl-"]:hover {background-color: #243893; }
+ .contact-area .getin-touch .contact-info li .icon-holder {border: 2px solid #243893; }
+ .contact-area .getin-touch .contact-info li .icon-holder span::before {color: #243893; }
+ .contact-area .contact-form form input[type="text"]:focus {color: #243893; }
+ .contact-area .contact-form form textarea:focus {color: #243893; }
+ .contact-area .contact-form button:hover {background-color: #243893; }
+ .single-price-box.single-package .price-list::before {background-color: #243893; }
+ .single-price-box.single-package:hover .table-footer a {background-color: #243893; }
+ .full-range-services-area .single-item .overlay::before {background-color: #243893; }
+ .single-services-sidebar .single-item .services-list li:hover, .single-services-sidebar .single-item .services-list li.active {background-color: #243893; }
+ .single-services-sidebar .single-item .single-service-sidebar-carousel .single-carousel-item .client-info .name p {color: #243893; }
+ .single-services-sidebar .single-item .single-service-sidebar-carousel .service-carousel-control i:hover {color: #243893; }
+ .services-single-content #services-single-carousel .carousel-indicators .active {background-color: #243893; }
+ .services-single-content .working-topics-content ul li span::before {color: #243893; }
+ .pricing-plan .table-heading tr {background-color: #243893; border: 1px solid #243893; }
+ .services-single-content .other-services-content .single-other-services-item .icon-holder span::before {color: #243893; }
+ .other-services-content .owl-theme .owl-nav [class*="owl-"]:hover {background-color: #243893; }
+ .working-under-content .accordion-box .accordion .acc-btn.active .toggle-icon span:before {color: #243893; }
+ .services-single-area.ver-three .brake-repair-items .single-item:hover .icon-holder {background-color: #243893; }
+ .services-single-area.ver-three .brake-repair-items .single-item:hover .content h3 a {color: #243893; }
+ .login-register-area .form .social-icon li a i.gplus::before {background: #dd4b39 none repeat scroll 0 0; }
+ .login-register-area .form a.forgot-password {color: #243893; }
+ .login-register-area .form .input-field input[type="text"]:focus {border: 2px solid #243893; }
+ .login-register-area .form button:hover {background-color: #243893; }
+ .cart-section .thm-btn {background-color: #243893; }
+ .cart-table tbody tr .sub-total {color: #243893; }
+ .cart-table tbody .available-info .icon {background-color: #243893; }
+ .cart-section .estimate-form .select-box .dropdown-menu > li > a:hover {background-color: #243893; }
+ .single-footer-widget .service-list li:hover a, .single-footer-widget .service-list li:hover i, .checkout-section .payment-options .option-block .radio-block.active .icon i {color: #243893; }
+
+
+.fact-counter ul li {border-color: #1A2C80; }
+.footer-top .single-item:hover .content,
+.best-service-area .single-item .overlay .content {border-left-color: #1A2C80;}
+.best-service-area .single-item .overlay .icon-holder {border-right-color: #2e429d;}
